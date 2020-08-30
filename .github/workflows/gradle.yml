@@ -15,7 +15,7 @@ jobs:
       run:
         shell: bash
 
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
